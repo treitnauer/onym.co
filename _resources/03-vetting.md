@@ -44,7 +44,7 @@ Trademarks
 Domains & Social
 ----------------
 
-- [I Want My Name](https://iwantmyname.com/)
+- [iwantmyname](https://iwantmyname.com/)
 
   Perhaps the most comprehensive domain search, providing availability
   status for domains across most of the new TLDs.
